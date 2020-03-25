@@ -1,5 +1,5 @@
-[![Build Status](https://dev.azure.com/krzysztofpolec/Flow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/krzysztofpolec/Flow/_build/latest?definitionId=3&branchName=master)
 
+[![Build Status](https://dev.azure.com/krzysztofpolec/Flow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/krzysztofpolec/Flow/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
